@@ -1,5 +1,7 @@
 ### Information
 - Author: anhnlq aka h4niz from Inv1cta Team - HPT Cyber Security Center
+- Workmail: anhnlq@hpt.vn
+- Gmail: haniz.cons@gmail.com
 
 
 ---
